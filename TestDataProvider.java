@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 public class TestDataProvider {
-    SoftAssert softAssert = new SoftAssert();
+   // SoftAssert softAssert = new SoftAssert();
     String[][] array = new String[1][1];
 
     @Test(dataProvider = "myDataProvider")
@@ -14,7 +14,7 @@ public class TestDataProvider {
         //System.out.println(something);
         System.out.println(" var 1 " + var + " var 2 " + var2);
         System.out.println(" Hello we are doing Jenkins");
-        System.out.println(" Another commit7");
+        System.out.println(" Another commit8");
     }
 
     @DataProvider
