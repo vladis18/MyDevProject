@@ -14,7 +14,7 @@ public class TestDataProvider {
         //System.out.println(something);
         System.out.println(" var 1 " + var + " var 2 " + var2);
         System.out.println(" Hello we are doing Jenkins");
-        System.out.println(" Another commit4");
+        System.out.println(" Another commit5");
     }
 
     @DataProvider
