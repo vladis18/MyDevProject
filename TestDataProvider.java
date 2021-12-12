@@ -13,7 +13,7 @@ public class TestDataProvider {
         System.out.println("Hello");
         //System.out.println(something);
         System.out.println(" var 1 " + var + " var 2 " + var2);
-        System.out.println();
+        System.out.println(" Hello we are doing Jenkins");
     }
 
     @DataProvider
